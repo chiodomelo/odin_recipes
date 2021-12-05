@@ -1,0 +1,5 @@
+.title {
+    background-color: #AEC6CF;
+    font-weight: bold;
+    color: antiquewhite;
+}
